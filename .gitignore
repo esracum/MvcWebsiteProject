@@ -1,0 +1,17 @@
+obj
+bin
+.vs
+AdminLTE-3.0.4
+MvcCv.csproj
+MvcCv.csproj.user
+MvcCv.sln
+Repositories
+App_Data
+App_Start
+packages
+Web.config
+packages.config
+Web.Debug.config
+Web.Release.config
+Global.asax.cs
+Global.asax
